@@ -1,0 +1,143 @@
+<resources>
+    <string name="app_name">ContohPariwisataYogyakarta</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="penjelasan">
+        Daerah Istimewa Yogyakarta posisinya terletak diantara
+        7.33-8.12 Lintang Selatan dan 110.00- 110.50 Bujur Timur,
+        tercatat memiliki luas 3.185,80 km atau 0,17% dari luas Indonesia (1.860.359,67 km).
+        Ini terdiri atas satu kotamadya, dan empat kabupaten, yang terbagi
+        lagi menjadi 78 kecamatan, dan 438 desa/kelurahan.
+        Berdasarkan bentang alam, wilayah DIY dapat dikelompokkan
+        menjadi empat satuan fisiografi, yaitu satuan fisiografi Gunungapi Merapi,
+        satuan fisiografi Pegunungan Sewu atau Pegunungan Seribu, satuan fisiografi Pegunungan
+        Kulon Progo, dan satuan fisiografi Dataran Rendah.
+    </string>
+    <string name="tugu_jogja">
+        Tugu Yogyakarta adalah sebuah tugu atau monumen
+        yang sering dipakai sebagai simbol atau lambang
+        dari kota Yogyakarta. Tugu ini dibangun oleh
+        pemerintah Belanda setelah tugu sebelumnya
+        runtuh akibat gempa yang terjadi waktu itu.
+        Tugu sebelumnya yang bernama Tugu Golong-Gilig
+        dibangun oleh Hamengkubuwana I, pendiri kraton
+        Yogyakarta. Tugu yang terletak di perempatan
+        Jalan Jenderal Sudirman dan Jalan Margo Utomo ini,
+        mempunyai nilai simbolis dan merupakan garis yang bersifat magis menghubungkan laut selatan, kraton Jogja dan
+        gunung Merapi. Pada saat melakukan meditasi, konon Sultan Yogyakarta pada waktu itu menggunakan tugu ini sebagai
+        patokan arah menghadap puncak gunung Merapi.
+    </string>
+
+    <string name="keraton_jogja">
+        Karaton Ngayogyakarta Hadiningrat) merupakan istana resmi
+        Kesultanan Ngayogyakarta Hadiningrat yang kini berlokasi
+        di Kota Yogyakarta, Daerah Istimewa Yogyakarta, Indonesia.
+        Walaupun kesultanan tersebut secara resmi telah menjadi
+        bagian Republik Indonesia pada tahun 1950, kompleks bangunan
+        keraton ini masih berfungsi sebagai tempat tinggal sultan dan
+        rumah tangga istananya yang masih menjalankan tradisi kesultanan
+        hingga saat ini. Keraton ini kini juga merupakan salah satu objek wisata di Kota Yogyakarta. Sebagian kompleks
+        keraton merupakan museum yang menyimpan berbagai koleksi milik kesultanan, termasuk berbagai pemberian dari
+        raja-raja Eropa, replika pusaka keraton, dan gamelan. Dari segi bangunannya, keraton ini merupakan salah satu
+        contoh arsitektur istana Jawa yang terbaik, memiliki balairung-balairung
+        mewah dan lapangan serta paviliun yang luas
+    </string>
+
+    <string name="monumen_jogja">
+        Museum Monumen Jogja Kembali adalah sebuah museum
+        sejarah perjuangan kemerdekaan Republik Indonesia yang ada di kota
+        Yogyakarta dan dikelola oleh Departemen Kebudayaan dan Pariwisata. Museum yang
+        berada di bagian utara kota ini banyak dikunjungi oleh para pelajar dalam acara darmawisata.
+        Rana di pintu masuk museum
+        Museum Monumen dengan bentuk kerucut ini terdiri dari 3 lantai
+        dan dilengkapi dengan ruang perpustakaan serta ruang serbaguna. Pada rana pintu masuk
+        dituliskan sejumlah 422 nama pahlawan yang gugur di daerah Wehrkreise III (RIS) antara
+        tanggal 19 Desember 1948 sampai dengan 29 Juni 1949. Dalam 4 ruang museum di lantai 1
+        terdapat benda-benda koleksi: realia, replika, foto, dokumen, heraldika, berbagai
+        jenis senjata, bentuk evokatif dapur umum dalam suasana perang kemerdekaan 1945-1949.
+        Tandu dan dokar (kereta kuda) yang pernah dipergunakan oleh Panglima Besar Jenderal
+        Soedirman juga disimpan di sini (di ruang museum nomor 2). Monumen Jogja kembali
+        beralamat Di jalan raya Ring road Utara Sleman Yogyakarta
+    </string>
+    <string name="museum_gunung_merapi">
+        Museum Gunung Merapi merupakan museum bersejarah yang terdapat di Yogyakarta tepatnya Jln. Boyong,
+        Dusun Banteng, Desa Harjobinangun, Kecamatan Pakem, Kabupaten Sleman, Yogyakarta [1] sekitar lima kilometer
+        dari kawasan objek wisata Kaliurang. Museum Gunung Merapi telah diresmikan pada tanggal 1 Oktober 2009 oleh
+        Menteri Energi dan Sumber Daya Mineral (ESDM).
+        Dengan luas bangunan sekitar 4,470 yang berdiri di atas tanah seluas 3,5 hektare, museum yang ke depan juga
+        akan dilengkapi dengan taman, area parkir, dan plasa ini ingin dikenal masyarakat sebagai Museum Gunungapi
+        Merapi
+        dengan semboyan Merapi Jendela Bumi
+    </string>
+    <string name="taman_sari">
+        Taman sari Yogyakarta merupakan cagar budaya warisan
+        Keraton Yogyakarta yang masih dapat kita lihat berdiri gagah.
+        Taman sari dibangun pada masa pemerintahan Sri Sultan HB I,
+        pada tahun 1758. Sampai saat ini istana Taman sari sudah mengalami beberapa kali renovasi sehingga terllihat
+        menarik tanpa menghilangkan nilai historisnya. Taman sari terletak sekitar 300 meter sebelah barat dari Keraton
+        Yogyakarta.
+    </string>
+
+    <string name="bunker_kaliadem">
+        Salah satunya dari Dusun Kaliadem, Desa Kepuharjo, Kecamatan Cangkringan, Kabupaten Sleman. Di sini
+        terdapat bunker yang menjadi saksi ganasnya erupsi Gunung Merapi 2006 dan 2010. Namanya Bunker Kaliadem.
+    </string>
+
+    <string name="parangtritis">
+        Parangtritis memiliki pemandangan yang unik yang tidak terdapat pada obyek wisata lain, yaitu pantai yang
+        memiliki ombak yang besar dan terdapatnya gunung-gunung pasir disektar kawasana pantai tersebut yang disebut
+        dengan gumuk. Pada musim kemarau angin biasanya akan bertiup lebih cepat dan ombak akan bisa mencapai ketinggian
+        2 – 3 meter.
+        Karena ombaknya yang besar maka pengunjung Pantai Parangtritis dilarang untuk berenang di seputaran pantai,
+        untuk itu
+        sudah disediakan fasilitas pemandian umum yang bisa digunakan untuk para pengunjung yang ingin berenang dengan
+        aman dan nyaman.
+        Pantai Parangtritis adalah pantai yang paling populer yang terletak di Desa Parangtritis, Kecamatan Kretek,
+        Kabupaten Bantul Yogyakarta.
+        Pantai ini terletak sekitar 25 km sebelah selatan kota Yogyakarta.
+    </string>
+
+    <string name="candi_prambanan">
+        Salah satu candi yang terkenal di tanah air kita tercinta adalah Candi Prambanan.
+        Candi yang merupakan candi bagi umat Hindu ini memiliki gaya arsitektural yang berbeda
+        dengan Candi Borobudur. Namun tentu saja, Wisata Candi Prambanan tidak kalah keindahannya dibanding
+        Candi Borobudur maupun candi Angkor Wat.
+    </string>
+
+    <string name="pantai_jungwok">
+        Pantai Jungwok adalah pantai yang terletak di Desa Jepitu,
+        Kecamatan Girisubo, Kabupaten Gunungkidul, Daerah Istimewa
+        Yogyakarta. Pantai Jungwok merupakan salah satu pantai yang
+        memiliki panorama yang indah dengan pasir putih yang khas
+        dari pantai di Gunung Kidul.
+    </string>
+
+    <string name="malioboro">
+        Jalan Malioboro sangat terkenal dengan para pedagang kaki lima
+        yang menjajakan kerajinan khas Jogja dan
+        warung-warung lesehan di malam hari yang menjual
+        makanan gudeg Jogja serta terkenal sebagai tempat berkumpulnya para seniman yang sering mengekpresikan
+        kemampuan mereka seperti bermain musik, melukis, hapening art, pantomim, dan lain-lain di sepanjang jalan ini.
+
+        Saat ini, Jalan Malioboro tampak lebih lebar karena tempat parkir yang ada di pinggir
+        jalan sudah dipindahkan ke kawasan parkir Abu Bakar Ali. Karena Kedepanya Malioboro Akan Menjadi Semi Pedestrian
+    </string>
+
+    <string name="candi_ijo">
+        Candi Ijo adalah candi yang letaknya paling tinggi di Yogyakarta yang menyuguhkan pesona alam dan budaya serta
+        pesawat
+        yang tengah landing.
+        Candi Ijo dibangun sekitar abad ke-9, di sebuah bukit yang dikenal dengan Bukit Hijau atau Gumuk Ijo yang
+        ketinggiannya
+        sekitar 410 m di atas permukaan laut. Karena ketinggiannya, maka bukan saja bangunan candi yang bisa dinikmati
+        tetapi juga
+        pemandangan alam di bawahnya berupa teras-teras seperti di daerah pertanian dengan kemiringan yang curam. Meski
+        bukan daerah yang subur,
+        pemandangan alam di sekitar candi sangat indah untuk dinikmati.
+    </string>
+</resources>
